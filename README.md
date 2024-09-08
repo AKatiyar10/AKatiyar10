@@ -41,6 +41,6 @@ I am a passionate Tech Product Lead with extensive experience in designing and i
 
 ### 📫 How to reach me
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/amit-katiyar-10b26274)
-- **Email**: [Your Email](mailto:amitkatiyar1094@gmail.com)
+- **LinkedIn**: [amit-katiyar-10b26274](https://www.linkedin.com/in/amit-katiyar-10b26274)
+- **Email**: [amitkatiyar1094](mailto:amitkatiyar1094@gmail.com)
 
